@@ -1,0 +1,8 @@
+C:\Users\Florian\OneDrive\Desktop\Binary clock\bin\Debug\Binary clock.exe.config
+C:\Users\Florian\OneDrive\Desktop\Binary clock\bin\Debug\Binary clock.exe
+C:\Users\Florian\OneDrive\Desktop\Binary clock\bin\Debug\Binary clock.pdb
+C:\Users\Florian\OneDrive\Desktop\Binary clock\obj\Debug\Binary clock.csproj.AssemblyReference.cache
+C:\Users\Florian\OneDrive\Desktop\Binary clock\obj\Debug\Binary clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Florian\OneDrive\Desktop\Binary clock\obj\Debug\Binary clock.csproj.CoreCompileInputs.cache
+C:\Users\Florian\OneDrive\Desktop\Binary clock\obj\Debug\Binary clock.exe
+C:\Users\Florian\OneDrive\Desktop\Binary clock\obj\Debug\Binary clock.pdb
